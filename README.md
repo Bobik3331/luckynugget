@@ -1,2 +1,0 @@
-# luckynugget
-luckynugget site
